@@ -1,4 +1,4 @@
-# LipReadEnhance - Audio-Visual Speech Recognition System
+# Real-Time Lip Reading: Translating Visual/Speech Cues to Text Using Deep Learning
 
 An enhanced real-time multimodal speech recognition system that combines visual lip-reading with audio speech recognition to achieve higher accuracy than either modality alone.
 
