@@ -79,7 +79,7 @@ python test_fusion.py
 ## 📁 Project Structure
 
 ```
-LipReadEnhance/
+RealTimeLipRead/
 ├── pipelines/              # Visual speech recognition pipeline
 │   ├── pipeline.py        # Main inference pipeline
 │   ├── model.py           # AVSR Transformer model
